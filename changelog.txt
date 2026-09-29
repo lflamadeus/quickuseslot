@@ -1,3 +1,10 @@
+1.0.3
+- 授权改为 MIT：仓库根目录的 LICENSE（MIT, Copyright (c) 2026 lflamadeus）是唯一的
+  授权声明。gradle.properties 的 mod_license 从 MDK 默认的 "All Rights Reserved"
+  改为 "MIT"，该值会写进 mods.toml 与 jar 元数据；同时删除 Forge MDK 自带的
+  LICENSE.txt（那是 Forge / FML 自身的 LGPL-2.1 模板，与模组授权无关）。
+- 无功能改动：源码与资源与 1.0.2 完全一致。
+
 1.0.2
 - 修复「栏位没有排在最后」：此前 1.0.0 的栏位定义被整合包的
   datapack 缓存（gtocore/cache/json）留住了，模组更新后 Curios 读到的
