@@ -1,0 +1,9 @@
+{
+  "key.quickuseslot.category": "快捷使用栏",
+  "key.quickuseslot.use": "使用快捷使用栏物品",
+  "key.quickuseslot.use_sneak": "按住shift使用的快捷栏",
+  "curios.identifier.quick_use": "快捷使用",
+  "curios.modifiers.quick_use": "置于快捷使用栏时：",
+  "curios.identifier.quick_use_sneak": "快捷使用（Shift）",
+  "curios.modifiers.quick_use_sneak": "置于按住 Shift 的快捷使用栏时："
+}

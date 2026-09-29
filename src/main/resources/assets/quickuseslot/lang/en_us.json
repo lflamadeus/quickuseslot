@@ -1,0 +1,9 @@
+{
+  "key.quickuseslot.category": "Quick Use Slot",
+  "key.quickuseslot.use": "Use Quick Use Slot Item",
+  "key.quickuseslot.use_sneak": "Quick Use Slot (Held Shift)",
+  "curios.identifier.quick_use": "Quick Use",
+  "curios.modifiers.quick_use": "When in the quick use slot:",
+  "curios.identifier.quick_use_sneak": "Quick Use (Shift)",
+  "curios.modifiers.quick_use_sneak": "When in the shift quick use slot:"
+}

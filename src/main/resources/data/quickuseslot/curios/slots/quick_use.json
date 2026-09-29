@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "order": 10000,
+  "size": 1,
+  "icon": "quickuseslot:slot/quick_use",
+  "validators": [
+    "curios:all"
+  ],
+  "add_cosmetic": false,
+  "render_toggle": false,
+  "drop_rule": "DEFAULT"
+}
